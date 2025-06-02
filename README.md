@@ -1,4 +1,4 @@
-Numerical Methods with MATLAB - Math 131
+**Numerical Methods with MATLAB - Math 131**
 Computational Techniques for Mathematical Problem Solving
 Numerical Methods Banner
 
